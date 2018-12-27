@@ -11,14 +11,13 @@
 
 @snap[list-content-verbose] 
 
-@ul[text-white]
-# 김현욱 
 @snap[west]
-![hot guy](hotguy.jpg)
+![hot guy](hotguy.jpg){: width="100" height="100"}
 @snapend
 
 @snap[east]
 @ul[](false)
+# 김현욱 
 * 핫가이 + 유쾌함
 * 연말 계획 및 12월 31일
     * Java 공부해오기 + 밤새면서 새해맞기
