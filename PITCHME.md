@@ -8,7 +8,7 @@
     <div style="float:left; width:240px; height:300px">
         <img src="hotguy.jpg" width="240px" height="300px">
     </div>
-    <div style="float:right; width:900px">
+    <div style="float:right; width:800px">
         <h3 style="font-weight:bold">김 현 욱</h3>
         <ul>
             <li>
