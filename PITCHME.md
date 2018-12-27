@@ -12,7 +12,7 @@
 @snap[list-content-verbose] 
 
 @snap[west]
-<img src="hotguy.jpg" width="30px" height="30px">
+<img src="hotguy.jpg" width="240px" height="300px">
 @snapend
 
 @snap[east]
@@ -25,4 +25,3 @@
 @snapend
 
 @snapend
-@fa[arrow-down text-black]
