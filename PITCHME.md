@@ -1,21 +1,14 @@
-## Regular<br>Slide Content
+---
+# 서울 5반 부대찌개
+## 팀원 소개
+### 김현욱
+> 핫가이 + 유쾌한편
 
-@snap[north-west]
-Delicious
-@snapend
 
-@snap[west sidebar]
-![PLATE](http://recipe1.ezmember.co.kr/cache/recipe/2018/03/02/dcc4f03391adc1888839ba7e6d6ba96f1.jpg)
-@snapend
+* 연말 계획
+    * Java 공부해오기
 
-@snap[north-east]
-Ice Cream
-@snapend
+* 12월 31일에 하고 싶은것
+    * 밤새면서 새해맞기
 
-@snap[east sidebar]
-![ICECREAM](http://www.foodbank.co.kr/news/photo/201605/48374_5211_3130.jpg)
-@snapend
-
-.sidebar img {
-  width: 25%;
-}
+![](https://files.slack.com/files-pri/TETQ23ZM0-FF24TUQLB/_________.jpg)
