@@ -24,8 +24,8 @@
 
 +++?image=background.jpg
 <div id="container" >
-    <div style="float:left; width:240px; height:300px">
-        <img src="jeon.jpg" width="240px" height="300px">
+    <div style="float:left; width:240px; height:340px">
+        <img src="jeon.jpg" width="240px" height="340px">
     </div>
     <div style="float:right; width:700px">
         <h3 style="font-weight:bold">전 민 용</h3>
@@ -43,8 +43,8 @@
 
 +++?image=background.jpg
 <div id="container" >
-    <div style="float:left; width:240px; height:300px">
-        <img src="ji.jpg" width="240px" height="300px">
+    <div style="float:left; width:240px; height:360px">
+        <img src="ji.jpg" width="240px" height="360px">
     </div>
     <div style="float:right; width:700px">
         <h3 style="font-weight:bold">지 창 규</h3>
@@ -62,8 +62,8 @@
 
 +++?image=background.jpg
 <div id="container" >
-    <div style="float:left; width:240px; height:300px">
-        <img src="lim.jpg" width="240px" height="300px">
+    <div style="float:left; width:300px; height:300px">
+        <img src="lim.jpg" width="300px" height="300px">
     </div>
     <div style="float:right; width:700px">
         <h3 style="font-weight:bold">임 현 아</h3>
@@ -100,8 +100,8 @@
 
 +++?image=background.jpg
 <div id="container" >
-    <div style="float:left; width:240px; height:300px">
-        <img src="park.png" width="240px" height="300px">
+    <div style="float:left; width:300px; height:300px">
+        <img src="park.png" width="300px" height="300px">
     </div>
     <div style="float:right; width:700px">
         <h3 style="font-weight:bold">박 동 익</h3>
