@@ -1,16 +1,19 @@
-![Logo](boodaejjigae_mark.png)
----
-# 서울 5반 부대찌개
-## 팀원 소개
-### **김현욱**
-> 핫가이 + 유쾌한편
++++?image=boodaejjigae_mark.png
 
++++?image=background.jpg
 
+@snap[north title-top] 부대찌개 @snapend
 
-* 연말 계획
-    * Java 공부해오기
+@snap[title-sub] 팀소개 프레젠테이션 만들기 @snapend
 
-* 12월 31일에 하고 싶은것
-    * 밤새면서 새해맞기
+@snap[list-content-verbose] 
+@ul
 
-![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
+PITCHME.md 문서를 만들고 아래 내용을 포함하여 작성합니다.
+팀원들의 이름과 별명, 성격
+팀원 또는 팀원들의 특징을 잘 나타낼 수 있는 사진
+연말 계획 및 12월 31일에 하고 싶은 것
+Git Pitch로 해당 문서를 열어 슬라이드가 잘 만들어졌는지 확인합니다. @ulend 
+
+@snapend
+@fa[arrow-down text-black]
