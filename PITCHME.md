@@ -9,15 +9,15 @@
         <img src="hotguy.jpg" width="240px" height="300px">
     </div>
     <div style="float:right; width:700px">
-            <h1>김현욱</h1>
+            <h3>김현욱</h3>
         <ul>
             <li>
-            <h2>핫가이 + 유쾌함</h2>
+            <h4>핫가이 + 유쾌함</h4>
             </li>
             <li>
-            <h2>연말 계획 및 12월 31일</h2>
+            <h4>연말 계획 및 12월 31일</h4>
             </li>
-            <h3> -> Java 공부해오기 + 밤새면서 새해맞기</h3>
+            <h5> -> Java 공부해오기 + 밤새면서 새해맞기</h5>
         </ul>
     </div>
 </div>
