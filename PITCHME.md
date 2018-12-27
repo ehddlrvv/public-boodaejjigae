@@ -1,4 +1,4 @@
-+++?image=background.jpg
++++
 @snap[center]
 ![Logo](boodaejjigae_mark.png)
 @snapend
