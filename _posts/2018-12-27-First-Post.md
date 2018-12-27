@@ -6,6 +6,7 @@
 "공감하고, 문제를 정의하고, 이를 해결하기 위한 아이디어를 도출하고, 시제품을 제작하고, 사용자 테스트를 진행하는 단계" <br>
 
 
+
 ![default](https://user-images.githubusercontent.com/46041397/50435701-c086a400-0925-11e9-8323-006a4ca83fa0.jpg)
 
 # 공감하기(EMPATHIZE)
