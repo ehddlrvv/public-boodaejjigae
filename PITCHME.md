@@ -1,11 +1,10 @@
-+++
++++?image=background.jpg
 @snap[center]
 ![Logo](boodaejjigae_mark.png)
 @snapend
 
-+++?image=background.jpg
-<link href="https://cdn.rawgit.com/singihae/Webfonts/master/style.css" rel="stylesheet" type="text/css" />
-<div id="container" style="font-family:'BM JUA','배달의민족 주아',sans-serif;">
++++
+<div id="container">
     <div style="float:left; width:240px; height:300px">
         <img src="hotguy.jpg" width="240px" height="300px">
     </div>
@@ -23,7 +22,7 @@
     </div>
 </div>
 
-+++?image=background.jpg
++++
 <div id="container" >
     <div style="float:left; width:240px; height:340px">
         <img src="jeon.jpg" width="240px" height="340px">
@@ -42,7 +41,7 @@
     </div>
 </div>
 
-+++?image=background.jpg
++++
 <div id="container" >
     <div style="float:left; width:240px; height:360px">
         <img src="ji.jpg" width="240px" height="360px">
@@ -61,7 +60,7 @@
     </div>
 </div>
 
-+++?image=background.jpg
++++
 <div id="container" >
     <div style="float:left; width:300px; height:300px">
         <img src="lim.jpg" width="300px" height="300px">
@@ -80,7 +79,7 @@
     </div>
 </div>
 
-+++?image=background.jpg
++++
 <div id="container" >
     <div style="float:left; width:240px; height:300px">
         <img src="cho.jpg" width="240px" height="300px">
@@ -99,7 +98,7 @@
     </div>
 </div>
 
-+++?image=background.jpg
++++
 <div id="container" >
     <div style="float:left; width:300px; height:300px">
         <img src="park.png" width="300px" height="300px">
