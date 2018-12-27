@@ -4,11 +4,11 @@
 @snapend
 
 +++?image=background.jpg
-<div id="container">
-    <div style="float:left width:240px height:300px">
+<div id="container" >
+    <div style="float:left; width:240px; height:300px">
         <img src="hotguy.jpg" width="240px" height="300px">
     </div>
-    <div style="float:right width:700px">
+    <div style="float:right; width:700px">
         @ul[](false)
         # 김현욱 
         * 핫가이 + 유쾌함
