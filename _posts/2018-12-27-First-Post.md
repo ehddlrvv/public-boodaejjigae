@@ -4,6 +4,7 @@
 
 <img src="/_posts/design.jpg" width="700" height="300">
 
+
       
 # 공감하기(EMPATHIZE)
 
