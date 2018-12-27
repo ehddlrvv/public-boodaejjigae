@@ -6,7 +6,6 @@ Delicious
 
 @snap[west sidebar]
 ![PLATE](http://recipe1.ezmember.co.kr/cache/recipe/2018/03/02/dcc4f03391adc1888839ba7e6d6ba96f1.jpg)
-![LOGO](public-boodaejjigae/boodaejjigae_mark.png)
 @snapend
 
 @snap[north-east]
