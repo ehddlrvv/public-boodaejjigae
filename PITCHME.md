@@ -1,3 +1,4 @@
+![Logo](https://github.com/ehddlrvv/public-boodaejjigae/boodaejjigae_mark.png)
 ---
 # 서울 5반 부대찌개
 ## 팀원 소개
