@@ -1,6 +1,7 @@
 +++
-
-![Logo](boodaejjigae_mark.jpg) @snapend
+@snap[south]
+![Logo](boodaejjigae_mark.jpg)
+@snapend
 
 +++?image=background.jpg
 
