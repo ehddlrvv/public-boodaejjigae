@@ -5,10 +5,10 @@
 
 +++?image=background.jpg
 <div id="container" >
-    <div style="float:left; width:240px; height:300px">
+    <div style="float:left;">
         <img src="hotguy.jpg" width="240px" height="300px">
     </div>
-    <div style="float:right; width:700px">
+    <div style="float:right;">
         <h3 style="font-weight:bold">김 현 욱</h3>
         <ul>
             <li>
