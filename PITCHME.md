@@ -5,10 +5,10 @@
 
 +++?image=background.jpg
 
-<div style="float:right">
+<div style="float:left width:240px height:300px">
     <img src="hotguy.jpg" width="240px" height="300px">
 </div>
-<div style="float:left">
+<div style="float:right width:700px">
     @ul[](false)
     # 김현욱 
     * 핫가이 + 유쾌함
