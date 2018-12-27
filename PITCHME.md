@@ -2,9 +2,9 @@
 @snap[center]
 ![Logo](boodaejjigae_mark.png)
 @snapend
-<link href="https://cdn.rawgit.com/singihae/Webfonts/master/style.css" rel="stylesheet" type="text/css" />
 
 +++?image=background.jpg
+<link href="https://cdn.rawgit.com/singihae/Webfonts/master/style.css" rel="stylesheet" type="text/css" />
 <div id="container" style="font-family:'BM JUA','배달의민족 주아',sans-serif;">
     <div style="float:left; width:240px; height:300px">
         <img src="hotguy.jpg" width="240px" height="300px">
