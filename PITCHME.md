@@ -11,11 +11,11 @@
 
 @snap[list-content-verbose] 
 
-@snap[west]
+@snap[west-side]
 <img src="hotguy.jpg" width="240px" height="300px">
 @snapend
 
-@snap[east]
+@snap[east-side]
 @ul[](false)
 # 김현욱 
 * 핫가이 + 유쾌함
