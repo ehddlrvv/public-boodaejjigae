@@ -2,9 +2,10 @@
 @snap[center]
 ![Logo](boodaejjigae_mark.png)
 @snapend
+<link href="https://cdn.rawgit.com/singihae/Webfonts/master/style.css" rel="stylesheet" type="text/css" />
 
 +++?image=background.jpg
-<div id="container" >
+<div id="container" style="font-family:'BM JUA','배달의민족 주아',sans-serif;">
     <div style="float:left; width:240px; height:300px">
         <img src="hotguy.jpg" width="240px" height="300px">
     </div>
@@ -65,7 +66,7 @@
     <div style="float:left; width:300px; height:300px">
         <img src="lim.jpg" width="300px" height="300px">
     </div>
-    <div style="float:right; width:700px">
+    <div style="float:right; width:600px">
         <h3 style="font-weight:bold">임 현 아</h3>
         <ul>
             <li>
@@ -103,7 +104,7 @@
     <div style="float:left; width:300px; height:300px">
         <img src="park.png" width="300px" height="300px">
     </div>
-    <div style="float:right; width:700px">
+    <div style="float:right; width:600px">
         <h3 style="font-weight:bold">박 동 익</h3>
         <ul>
             <li>
