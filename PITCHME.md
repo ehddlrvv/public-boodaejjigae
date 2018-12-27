@@ -15,3 +15,7 @@ Ice Cream
 @snap[east sidebar]
 ![ICECREAM](http://www.foodbank.co.kr/news/photo/201605/48374_5211_3130.jpg)
 @snapend
+
+.sidebar img {
+  width: 25%;
+}
