@@ -12,7 +12,7 @@
 @snap[list-content-verbose] 
 
 @snap[west]
-![hot guy](hotguy.jpg){: width="100" height="100"}
+![hot guy](hotguy.jpg){: width="30px" height="30px"}
 @snapend
 
 @snap[east]
